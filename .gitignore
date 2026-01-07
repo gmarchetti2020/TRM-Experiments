@@ -1,0 +1,11 @@
+/.DS_Store
+/3-build-vlm.ipynb
+/connect-to-remote-ws.sh
+/gm_multimodal_trm2.ipynb
+/gm_multimodal_trm_100k.ipynb
+/gm_multimodal_trm_100k_multi.ipynb
+/gm_multimodal_trm_100k_multi2.ipynb
+/gm_multimodal_trm_100k_patches.ipynb
+/gm_multimodal_trm_100k_with_eval.ipynb
+/gm_trm.ipynb
+/tinystories_trm2.ipynb
